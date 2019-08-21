@@ -17,3 +17,7 @@ class Dog
     @name
   end
 end
+
+Dog.new = fido
+fido.name = "Fido"
+fido.breed
